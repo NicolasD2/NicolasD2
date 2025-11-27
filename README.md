@@ -24,24 +24,20 @@
 
 ### Acerca de mí 👋
 
-* 💻 Soy un **Desarrollador Full Stack** autodidacta y **Desarrollador de Machine Learning**.
-* 📚 Tengo una Licenciatura en **Ciencias de la Computación** de la Universidad Cadi Ayyad en Marruecos.
-* 📝 Tengo un fuerte interés en **Data Science** e **Inteligencia Artificial**.
-* 🔭 Actualmente trabajando en proyectos de **Deep Learning** y **Machine Learning**.
-* 🌱 Aprendiendo sobre **Computer Vision** y temas avanzados de **Machine Learning**.
-* 🌟 **Lenguajes Principales:** Python, JavaScript.
-* 🚩 Interesado en el desarrollo de **Aplicaciones Full Stack de Machine Learning**.
-* 🤔 Actualmente estoy abierto a: Una **Pasantía** o una nueva **Oportunidad de Empleo**. Este es [MI CURRÍCULUM](https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing) (enlace).
+* 💻 Soy un **Desarrollador Full Stack** autodidacta.
+* 🌱 Aprendiendo sobre **microservicios** y temas avanzados de **gRPC**.
+* 🌟 **Lenguajes Principales:** Python, C#, JavaScript.
+* 🚩 Interesado en el desarrollo de **Aplicaciones Full Stack**.
+* 🤔 Actualmente estoy abierto a: practica pre-profesional **Oportunidad de Empleo**. Este es [MI CURRÍCULUM](https://docs.google.com/document/d/1J8w0pDzyUW_-A_JTh_AES6KhZMEE6T08WA48MDiJbbc/edit?usp=sharing).
 
 ---
 
 ## 🤝 Conecta conmigo
 
 <p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:nicolas.diaz03@alumnos.ucn.cl"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/nicolas-andres-diaz-juica-856504299/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/NicolasD2"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
 ## 🛠️ Mis Herramientas Favoritas
@@ -51,25 +47,31 @@
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white">
+	<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white">
+	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
+	<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+	
 </p>
 
 ### 🧰 Frameworks y Librerías
 
 <p>
-    <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
     <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
-    <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?logo=Bootstrap&logoColor=white">
+	<img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white">
+	<img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4.svg?logo=dotnet&logoColor=white">
+	<img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black">
 </p>
 
 ### 🗄️ Bases de Datos y Cloud Hosting
 
 <p>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-    <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300000F.svg?logo=mysql&logoColor=white">
+	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white">
+	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white">
 </p>
 
 ### 💻 Software y Herramientas
@@ -112,13 +114,6 @@
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
-
-## ¡Trabajemos juntos en tu proyecto! 💼
-
-Si tienes alguna pregunta sobre desarrollo web, Machine Learning, o Data Science, no dudes en [contactarme por correo electrónico](mailto:bouaskaoun.mohammed@gmail.com).
-
-Puedes contratarme como **freelancer** en [Fiverr](https://www.fiverr.com) o a través de [LinkedIn](https://www.linkedin.com/in/bouaskaoun/) para desplegar tu proyecto de Machine Learning en la web.
-
   </td>
   <td width="50%" valign="top">
 

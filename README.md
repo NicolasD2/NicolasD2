@@ -16,7 +16,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/NicolasD2">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingeniería+Civil+en+Computación;Desarrollador+Web+Full+Stack;Freelancer;Aprendiendo+ML;Siempre+aprendiendo+nuevas+cosas&center=true&width=550&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingeniería+Civil+en+Computación;Desarrollador+Web+Full+Stack;Aprendiendo+ML;Siempre+aprendiendo+nuevas+cosas&center=true&width=550&height=45">
 	</a>
 </p>
 

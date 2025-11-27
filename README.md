@@ -16,7 +16,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/NicolasD2">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingenieria+Civil+en+Computación+e+Informática;Desarrollador+Web+Full+Stack;Freelancer;Aprendiendo+ML;Siempre+aprendiendo+nuevas+cosas&center=true&width=500&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingeniería+Civil+en+Computación;Desarrollador+Web+Full+Stack;Freelancer;Aprendiendo+ML;Siempre+aprendiendo+nuevas+cosas&center=true&width=550&height=45">
 	</a>
 </p>
 
@@ -25,7 +25,7 @@
 ### Acerca de mí 👋
 
 * 💻 Soy un **Desarrollador Full Stack** autodidacta.
-* 📚 **Estudiante de Ingeniería Civil en Computación e Informática.** (Añadido para mayor claridad)
+* 📚 **Estudiante de Ingeniería Civil en Computación e Informática.**
 * 🌱 Aprendiendo sobre **microservicios** y temas avanzados de **gRPC**.
 * 🌟 **Lenguajes Principales:** Python, C#, JavaScript.
 * 🚩 Interesado en el desarrollo de **Aplicaciones Full Stack**.

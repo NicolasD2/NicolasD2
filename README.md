@@ -16,7 +16,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/NicolasD2">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ingenieria+Civil+en+Computación+e+Informatica;Desarrollador+Web+Full+Stack;Freelancer;+ML;Siempre+aprendiendo+nuevas+cosas&center=true&width=450&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+Ingenieria+Civil+en+Computación+e+Informática;Desarrollador+Web+Full+Stack;Freelancer;Aprendiendo+ML;Siempre+aprendiendo+nuevas+cosas&center=true&width=500&height=45">
 	</a>
 </p>
 
@@ -25,10 +25,11 @@
 ### Acerca de mí 👋
 
 * 💻 Soy un **Desarrollador Full Stack** autodidacta.
+* 📚 **Estudiante de Ingeniería Civil en Computación e Informática.** (Añadido para mayor claridad)
 * 🌱 Aprendiendo sobre **microservicios** y temas avanzados de **gRPC**.
 * 🌟 **Lenguajes Principales:** Python, C#, JavaScript.
 * 🚩 Interesado en el desarrollo de **Aplicaciones Full Stack**.
-* 🤔 Actualmente estoy abierto a: practica pre-profesional **Oportunidad de Empleo**. Este es [MI CURRÍCULUM](https://docs.google.com/document/d/1J8w0pDzyUW_-A_JTh_AES6KhZMEE6T08WA48MDiJbbc/edit?usp=sharing).
+* 🤔 Actualmente estoy abierto a: **Práctica Pre-profesional** o **Oportunidad de Empleo**. Este es [MI CURRÍCULUM](https://docs.google.com/document/d/1J8w0pDzyUW_-A_JTh_AES6KhZMEE6T08WA48MDiJbbc/edit?usp=sharing).
 
 ---
 
@@ -114,6 +115,13 @@
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
+	
+## ¡Trabajemos juntos en tu proyecto! 💼
+
+Si tienes alguna pregunta sobre desarrollo web, microservicios o sistemas distribuidos, no dudes en [contactarme por correo electrónico](mailto:nicolas.diaz03@alumnos.ucn.cl).
+
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/nicolas-andres-diaz-juica-856504299/) si tienes alguna propuesta de colaboración o empleo.
+
   </td>
   <td width="50%" valign="top">
 
